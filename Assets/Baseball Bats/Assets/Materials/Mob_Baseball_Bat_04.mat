@@ -38,7 +38,7 @@ Material:
     m_Ints: []
     m_Floats:
     - <noninit>: 0
-    - _Shininess: 0.078125
+    - _Shininess: 0.03
     m_Colors:
     - <noninit>: {r: 0, g: 1.2217712e-34, b: 0, a: 1.2217638e-34}
   m_BuildTextureStacks: []
